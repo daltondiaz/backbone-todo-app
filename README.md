@@ -1,7 +1,11 @@
-# Backbone Hello World Tutorial
+# Backbone TODO App Tutorial
 
-This is one example which use [Backbone.js](http://backbonejs.org/) and you can see more details in [Backbone.js for Absolute Beginners - Getting Started (Part 1: Intro) by @amejiarosario](http://adrianmejia.com/blog/2012/09/11/backbone-dot-js-for-absolute-beginners-getting-started/)
+This is the second part of tutorial about [Backbone.js](http://backbonejs.org/), the goal was made a TODO's. 
+
+You can find more details in [Backbone.js for Absolute Beginners - Getting Started (Part 2: Models, Collections and Views)](http://adrianmejia.com/blog/2012/09/13/backbone-js-for-absolute-beginners-getting-started-part-2/)
 
 ## To use
 
-Made the checkout and open the backbone-tutorial.html, you don't need nodejs or other framework. Its a Hello World, very simple.
+Made the checkout and open the backbone-todo.html, you don't need nodejs or other framework. Its a Hello World, very simple.
+
+See commits.
