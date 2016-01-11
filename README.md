@@ -1,6 +1,6 @@
 # Backbone TODO App Tutorial
 
-This is the second part of tutorial about [Backbone.js](http://backbonejs.org/), the goal was made a TODO's. 
+This is the second part of tutorial about [Backbone.js](http://backbonejs.org/), the goal was made a TODO list. 
 
 You can find more details in :
 
